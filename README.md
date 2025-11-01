@@ -27,7 +27,7 @@ It’s a small project, but it strengthened my understanding of automation, rege
 
 1. Make sure Python is installed on your computer.  
 2. Download or clone this repository:
-   bash - "git clone https://github.com/<your-username>/system-log-analyzer.git"
+   bash - "git clone https://github.com/<lizabala03>/system-log-analyzer.git"
 3. Navigate to the folder: bash - " cd system-log-analyzer "
 4. Run the script : bash - " python log_analyzer.py "
 
